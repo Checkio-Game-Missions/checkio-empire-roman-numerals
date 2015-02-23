@@ -1,0 +1,10 @@
+def roman(number):
+    return ""
+
+
+if __name__ == '__main__':
+    # These "asserts" using only for self-checking and not necessary for auto-testing
+    assert roman(6) == 'VI', '6'
+    assert roman(76) == 'LXXVI', '76'
+    assert roman(499) == 'CDXCIX', '499'
+    assert roman(3888) == 'MMMDCCCLXXXVIII', '3888'
