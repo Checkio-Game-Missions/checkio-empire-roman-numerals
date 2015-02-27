@@ -1,5 +1,5 @@
-Who did think up to use weird Roman numbers to mark ammo crates?
-Now we need to learn one more number system. Oh.
+Who thought to use those weird Roman numbers to mark ammo crates?
+Now we need to learn yet another number system. What on earth were they thinking?
 
 Roman numerals come from the ancient Roman numbering system.
 They are based on specific letters of the alphabet which are combined to signify the sum
