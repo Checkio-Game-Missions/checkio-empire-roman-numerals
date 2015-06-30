@@ -1,4 +1,3 @@
 **Precondition:**
-```python
-a < b
-```
+
+`0 < number < 4000`
