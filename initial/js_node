@@ -12,4 +12,5 @@ if (!global.is_checking) {
     assert.equal(roman(76), 'LXXVI', '76');
     assert.equal(roman(499), 'CDXCIX', '499');
     assert.equal(roman(3888), 'MMMDCCCLXXXVIII', '3888');
+    console.log("Coding complete? Click 'Check' to review your tests and earn cool rewards!");
 }
