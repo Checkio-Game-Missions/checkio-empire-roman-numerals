@@ -8,3 +8,4 @@ if __name__ == '__main__':
     assert roman(76) == 'LXXVI', '76'
     assert roman(499) == 'CDXCIX', '499'
     assert roman(3888) == 'MMMDCCCLXXXVIII', '3888'
+    print("Earn cool rewards by using the 'Check' button!")
